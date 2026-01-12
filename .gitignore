@@ -1,3 +1,6 @@
 data/
 stuff/
 models/
+simple_cnn_pascalvoc.pth
+report_template/
+report_template.zip
